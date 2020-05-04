@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\bin\Debug\netcoreapp3.1\app_senha.exe
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\bin\Debug\netcoreapp3.1\app_senha.deps.json
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\bin\Debug\netcoreapp3.1\app_senha.runtimeconfig.json
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\bin\Debug\netcoreapp3.1\app_senha.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\bin\Debug\netcoreapp3.1\app_senha.dll
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\bin\Debug\netcoreapp3.1\app_senha.pdb
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.AssemblyInfo.cs
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.dll
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.pdb
+C:\Users\Lucas\Documents\ws-vs2019\app_senha\app_senha\obj\Debug\netcoreapp3.1\app_senha.genruntimeconfig.cache

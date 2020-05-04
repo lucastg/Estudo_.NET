@@ -1,0 +1,12 @@
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\obj\Debug\netcoreapp3.1\app_combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\obj\Debug\netcoreapp3.1\app_combustivel.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\obj\Debug\netcoreapp3.1\app_combustivel.AssemblyInfo.cs
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\bin\Debug\netcoreapp3.1\app_combustivel.exe
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\bin\Debug\netcoreapp3.1\app_combustivel.deps.json
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\bin\Debug\netcoreapp3.1\app_combustivel.runtimeconfig.json
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\bin\Debug\netcoreapp3.1\app_combustivel.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\bin\Debug\netcoreapp3.1\app_combustivel.dll
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\bin\Debug\netcoreapp3.1\app_combustivel.pdb
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\obj\Debug\netcoreapp3.1\app_combustivel.dll
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\obj\Debug\netcoreapp3.1\app_combustivel.pdb
+C:\Users\Lucas\Documents\ws-vs2019\app_combustivel\app_combustivel\obj\Debug\netcoreapp3.1\app_combustivel.genruntimeconfig.cache
